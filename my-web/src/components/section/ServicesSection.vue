@@ -81,7 +81,7 @@
                 </div>
               </div>
               <button
-                class="w-fit px-4 py-2 border border-white/20 rounded-md hover:bg-white/10 flex items-center group"
+                class="w-fit px-4 py-2 border cursor-pointer border-white/20 rounded-md hover:bg-white/10 flex items-center group"
               >
                 View Project Details
                 <svg

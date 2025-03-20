@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-black text-white flex flex-col justify-center relative overflow-hidden">
+  <div id ="home" class="min-h-screen bg-black text-white flex flex-col justify-center relative overflow-hidden">
     <div class="absolute inset-0 z-0">
       <div class="absolute top-20 left-10 w-60 h-60 bg-blue-500/10 rounded-full blur-3xl"></div>
       <div class="absolute bottom-20 right-10 w-80 h-80 bg-purple-500/10 rounded-full blur-3xl"></div>
